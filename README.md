@@ -1,0 +1,1 @@
+# odoo16-crm-partner-management
